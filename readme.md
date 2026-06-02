@@ -14,7 +14,7 @@ This project takes the opposite approach:
 
 ## Roadmap
 
-✅ Phase 1 — Payoff Geometry
+✅ Phase 1 - Payoff Geometry
 
 - Long Call
 - Long Put
@@ -26,7 +26,7 @@ This project takes the opposite approach:
 - Protective Puts
 - Covered Calls
 
-✅ Phase 2 — Binomial Pricing
+✅ Phase 2 - Binomial Pricing
 
 - One-step model
 - Multi-step tree
@@ -34,11 +34,11 @@ This project takes the opposite approach:
 - Backward induction
 - Replicating portfolio
 
-⬜ Phase 3 — Black–Scholes
+⬜ Phase 3 - Black–Scholes
 
-⬜ Phase 4 — Greeks
+⬜ Phase 4 - Greeks
 
-⬜ Phase 5 — Monte Carlo
+⬜ Phase 5 - Monte Carlo
 
 
 ## Sample Visualizations
